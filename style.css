@@ -1,0 +1,94 @@
+body{
+background: url(sfondo.jpg);
+  background-repeat: no-repeat;
+  background-size:3500px;
+  background-position: top;
+
+  background-attachment: fixed;
+  background-origin: border-box;
+}
+#rettangolo-sfumato{
+  background-position:50px 50px;
+  background-size: contain;
+  margin-top: 100px;
+  border-left:0px;
+  opacity: 0.6;
+  width: 2110px;
+  height: 1500px;
+  border-radius: 20px;
+  background-attachment: fixed;
+
+  background: black;
+
+}
+.container{
+  width: 1400px;
+  margin-left: 700px;
+  margin-right: 1384px;
+  background: color:000;
+
+}
+.logo{
+  width: 450px;
+  margin-left: 800px;
+  margin-top: 150px;
+
+}
+.logo-text{
+  width: 1000px;
+  margin: 0px;
+  margin-left:700px;
+  color: #00ff00;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size:50px;
+}
+.submit{
+  align-items: center;
+  font-size: 30px;
+  width: 86px;
+  height: 50px;
+  border-top-width: 0px;
+  border-bottom-width: 20px;
+  margin-bottom: 0px;
+}
+.row{
+  background-color: #00ff00;
+  width: 1750px;
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.row-left{
+  margin-left: 600px;
+  padding: 20px;
+}
+.prenotazioni{
+  margin-top: 30px;
+  margin-left: 200px;
+  font-size: 35px;
+
+  font-family: Helvetica, Arial, sans-serif, bold;
+  padding-top: 10px;
+  border-top: 5px;
+  color: white;
+}
+h5{margin: 0}
+#rectangle-one {
+  width: 600px;
+  height: 50px;
+  border-radius: 5px;
+  background: yellow;
+}
+#rectangle-two {
+  width: 1000px;
+  height: 50px;
+  border-radius: 5px;
+  background: #00ff00;
+}
+#rectangle-tree {
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  background: red;
+}
